@@ -52,7 +52,7 @@ This project is implemented as an interactive Jupyter Notebook. You just need to
 ## Contributing
 You are welcome to contribute :
 
-1. Fork it (https://github.com/rohanrao619/Twitter_Sentiment_Analysis/fork)
+1. Fork it (https://github.com/Vitthal-Jauhari/Twitter_Sentiment_Analysis/fork)
 2. Create new branch : `git checkout -b new_feature`
 3. Commit your changes : `git commit -am 'Added new_feature'`
 4. Push to the branch : `git push origin new_feature`
@@ -143,11 +143,8 @@ It is clearly visible that preprocessing the corpus and using pre-trained word e
 
 ## Final Notes
 **Thanks for going through this Repository! Have a nice day.**</br>
-</br>**Got any Queries? Feel free to contact me.**</br>
-</br>**Saini Rohan Rao**
+</br>**Got any queries? Feel free to connect.**</br>
+</br>**Vitthal Jauhari**
 <p align="left">
-<a href="mailto:rohanrao619@gmail.com"><img src="https://github.com/rohanrao619/Icons/blob/master/SVGs/Gmail.svg" height ="45" title="Gmail" alt="mailto:rohanrao619@gmail.com"></a>
-<a href="https://github.com/rohanrao619"><img src="https://github.com/rohanrao619/Icons/blob/master/SVGs/GitHub.svg" height ="45" title="GitHub" alt="https://github.com/rohanrao619"></a>
-<a href="https://www.linkedin.com/in/rohanrao619"><img src="https://github.com/rohanrao619/Icons/blob/master/SVGs/LinkedIn.svg" height ="45" title="LinkedIn" alt="https://www.linkedin.com/in/rohanrao619"></a>
-<a href="https://rohanrao619.github.io/"><img src="https://github.com/rohanrao619/Icons/blob/master/SVGs/Portfolio.svg" height ="45" title="Portfolio Website" alt="https://rohanrao619.github.io/"></a>
+<a href="https://github.com/Vitthal-Jauhari"><img src="https://cdn.simpleicons.org/github" height ="45" title="GitHub" alt="https://github.com/Vitthal-Jauhari"></a>
 </p>
